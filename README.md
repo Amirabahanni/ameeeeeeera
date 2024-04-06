@@ -1,12 +1,8 @@
-- 👋 Hi, I’m Amira
-- 👀 I’m interested in Computer science and programming languages..
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ameeeeeeera/ameeeeeeera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I'm Amira! 👋
+I'm currently pursuing my degree in Computer Science 💻. 
+I have a passion for problem-solving and the tech industry, and nothing excites me more than getting to tackle a new challenge through coding 💡.
+I'm always looking for opportunities to apply my skills in real-world scenarios 🌍. 
+Feel free to explore my repositories 📂 and get to know more about my coding journey 🚀
+📫 How to reach me :
+ - 📧 amirabahanni@gmail.com
+ - 📸 ig: @ameeeeeeeraaaaa
