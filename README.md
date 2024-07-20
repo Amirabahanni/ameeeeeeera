@@ -5,4 +5,3 @@ I'm always looking for opportunities to apply my skills in real-world scenarios 
 Feel free to explore my repositories 📂 and get to know more about my coding journey 🚀
 📫 How to reach me :
  - 📧 amirabahanni@gmail.com
- - 📸 ig: @ameeeeeeeraaaaa
